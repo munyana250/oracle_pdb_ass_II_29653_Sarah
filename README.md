@@ -81,3 +81,6 @@ The Oracle environment contains multiple PDBs. The correct container was selecte
 ```sql
 SHOW CON_NAME;
 DROP PLUGGABLE DATABASE sm_to_delete_pdb_29653 INCLUDING DATAFILES;
+
+i edited the Images (Image names) that it could be well structured and understandable
+
